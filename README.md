@@ -6,7 +6,11 @@
   - Currently in the Labs portion at Lambda School
 </div> 
 </div>
-
+  <h3> Contact me </h3>
+  
+  * Here on Github
+  * [LinkedIn](https://www.linkedin.com/in/jgreenweb/)
+  </div>
 <div>
   <h3> Languages and Tools </h3>
   <p>
